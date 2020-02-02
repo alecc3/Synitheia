@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/synitheia/static/css/main.1ccd3a8b.chunk.css",
+    "main.js": "/synitheia/static/js/main.c68b470f.chunk.js",
+    "main.js.map": "/synitheia/static/js/main.c68b470f.chunk.js.map",
+    "runtime~main.js": "/synitheia/static/js/runtime~main.5c8c5725.js",
+    "runtime~main.js.map": "/synitheia/static/js/runtime~main.5c8c5725.js.map",
+    "static/css/2.e325bc6a.chunk.css": "/synitheia/static/css/2.e325bc6a.chunk.css",
+    "static/js/2.d4a45a82.chunk.js": "/synitheia/static/js/2.d4a45a82.chunk.js",
+    "static/js/2.d4a45a82.chunk.js.map": "/synitheia/static/js/2.d4a45a82.chunk.js.map",
+    "index.html": "/synitheia/index.html",
+    "precache-manifest.82236ba9d664e1c005d330f0280255c6.js": "/synitheia/precache-manifest.82236ba9d664e1c005d330f0280255c6.js",
+    "service-worker.js": "/synitheia/service-worker.js",
+    "static/css/2.e325bc6a.chunk.css.map": "/synitheia/static/css/2.e325bc6a.chunk.css.map",
+    "static/css/main.1ccd3a8b.chunk.css.map": "/synitheia/static/css/main.1ccd3a8b.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/synitheia/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/face-3.jpg": "/synitheia/static/media/face-3.ce7a6b79.jpg",
+    "static/media/bootstrap.min.css": "/synitheia/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/reactlogo.png": "/synitheia/static/media/reactlogo.9b864b36.png",
+    "static/media/sidebar-1.jpg": "/synitheia/static/media/sidebar-1.6be21e8a.jpg",
+    "static/media/sidebar-2.jpg": "/synitheia/static/media/sidebar-2.7a4ce7cc.jpg",
+    "static/media/sidebar-3.jpg": "/synitheia/static/media/sidebar-3.34535b95.jpg",
+    "static/media/sidebar-4.jpg": "/synitheia/static/media/sidebar-4.7bc259fd.jpg"
+  }
+}
